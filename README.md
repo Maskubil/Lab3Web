@@ -39,3 +39,9 @@ Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti beriku
 ## Menabahkan Style pada Form
 Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
 ![Lab3web](img/From2.png)
+
+## Pertanyaan dan Tugas
+1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+
+## Jawaban
+![Lab3web](img/Logo%20upb.png)
